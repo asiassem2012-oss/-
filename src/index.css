@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@layer base {
+  html[dir="rtl"] body {
+    font-family: 'Cairo', sans-serif;
+  }
+
+  html[dir="ltr"] body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+  }
+
+  html[dir="rtl"] .font-display {
+    font-family: 'Amiri', 'Cairo', serif;
+  }
+
+  html[dir="ltr"] .font-display {
+    font-family: 'Cormorant Garamond', serif;
+  }
+
+  .font-mono-num {
+    font-family: 'JetBrains Mono', monospace;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+.balance-text {
+  text-wrap: balance;
+}
+

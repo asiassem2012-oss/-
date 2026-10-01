@@ -1,0 +1,6 @@
+{
+  "name": "مطاعم الصباحي | El-Sabahi Seafood & Grill",
+  "description": "الموقع الرسمي لمطاعم الصباحي للمأكولات البحرية والمشويات المصرية الأصيلة بشارع قناة السويس، المنصورة — تقييم 4.4 من أكثر من 5,290 مراجعة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
